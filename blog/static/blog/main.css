@@ -29,7 +29,7 @@
   }
 
   .navbar-dark .navbar-brand {
-    color: #01EF74;
+    color: #0000FF;
   }
 
   .content-section {
@@ -93,7 +93,7 @@
   }
 
   #rcorners3 {
-    border-radius: 15px;
+    border-radius: 5px;
   }
 
   .center {
@@ -101,4 +101,9 @@
   margin-left: auto;
   margin-right: auto;
   width: 90%;
+  }
+
+  .i40 {
+    width: 40px;
+    height: 30px;
   }
